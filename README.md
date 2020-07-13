@@ -1,5 +1,5 @@
 # demo-react-native-cli
-Show list category item demo
+Show list category item demo with tab view
 
 * **install node module**
 npm i
